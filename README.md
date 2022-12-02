@@ -1,4 +1,4 @@
-[![NuGet version (English.WordParsing)](https://img.shields.io/nuget/v/English.WordParsingk.svg?style=flat-square)](https://www.nuget.org/packages/English.WordParsing/)
+[![NuGet version (English.WordParsing)](https://img.shields.io/nuget/v/English.WordParsing.svg?style=flat-square)](https://www.nuget.org/packages/English.WordParsing/)
 
 # WordParser
 Customizable parser for extracting words from English text
