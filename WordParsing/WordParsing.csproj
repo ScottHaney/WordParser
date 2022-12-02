@@ -9,6 +9,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/ScottHaney/WordParser</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>English.$(AssemblyName)</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
