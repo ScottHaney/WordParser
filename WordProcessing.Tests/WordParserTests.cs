@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace WordParsing.Tests
 {
-    public class WordParsingTests
+    public class WordParserTests
     {
         [Test]
         public void Finds_Words_Separated_By_Punctuation_And_Whitespace()
