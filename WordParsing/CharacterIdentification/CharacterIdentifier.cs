@@ -22,7 +22,7 @@ namespace WordParsing.CharacterIdentification
 
         private static readonly char[] _sentenceStructurePunctuationMarks = new char[]
         {
-            '.', '?', '!', ',', ';', ':', '"'
+            '.', '?', '!', ',', ';', ':', '"', '(', ')'
         };
     }
 }
